@@ -1,2 +1,2 @@
 # Fillmore
-A Discord bot
+A Discord bot. It does stuff.
